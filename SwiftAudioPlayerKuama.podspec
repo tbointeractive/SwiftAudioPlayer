@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftAudioPlayerKuama'
-  s.version          = '7.6.2'
+  s.version          = '7.6.3'
   s.summary          = 'Temporary SwiftAudioPlayer no-singleton implementation.'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ SwiftAudioPlayer is a Swift based audio player that can handle streaming from a 
   s.source           = { :git => 'https://github.com/Kuama-IT/SwiftAudioPlayer.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/_tanhakabir'
 
-  s.platforms = { :ios => '10.0', :tvos => '10.0' }
+  s.platforms = { :ios => '10.0' }
 
   s.source_files = 'Source/**/*'
   s.swift_version = '5.0'

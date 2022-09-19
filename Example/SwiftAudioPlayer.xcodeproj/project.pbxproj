@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04189FDC28D4B80A002FB779 /* shakerando.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04189FDB28D4B80A002FB779 /* shakerando.mp3 */; };
 		167925E2C5C6ADCE11B754E1 /* Pods_SwiftAudioPlayer_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 058F1591E417A3726F7843F4 /* Pods_SwiftAudioPlayer_Example.framework */; };
 		525488EF886AF0ADD5AB6CBC /* Pods_SwiftAudioPlayer_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EA58146EC63DA3BC72BCFD1 /* Pods_SwiftAudioPlayer_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
@@ -30,7 +29,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04189FDB28D4B80A002FB779 /* shakerando.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shakerando.mp3; sourceTree = "<group>"; };
 		058F1591E417A3726F7843F4 /* Pods_SwiftAudioPlayer_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftAudioPlayer_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B7D1E6C00E83B4AF8AA1781 /* Pods-SwiftAudioPlayer_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftAudioPlayer_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftAudioPlayer_Tests/Pods-SwiftAudioPlayer_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4B5DD2AE0B23A759D18926DC /* Pods-SwiftAudioPlayer_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftAudioPlayer_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftAudioPlayer_Example/Pods-SwiftAudioPlayer_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -108,7 +106,6 @@
 		607FACD21AFB9204008FA782 /* Example for SwiftAudioPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				04189FDB28D4B80A002FB779 /* shakerando.mp3 */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				A470FEE1260303DA00F135FF /* Model.swift */,
@@ -253,7 +250,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04189FDC28D4B80A002FB779 /* shakerando.mp3 in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
