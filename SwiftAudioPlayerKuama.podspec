@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftAudioPlayerKuama'
-  s.version          = '7.6.3'
+  s.version          = '7.7.0'
   s.summary          = 'Temporary SwiftAudioPlayer no-singleton implementation.'
 
 # This description is used to generate tags and improve search results.
